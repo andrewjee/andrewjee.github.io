@@ -6,10 +6,10 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Deadly Premonition
 
 You shouldn't have come here. You will regret it.
 
-### Contact me
+### Don't contact me
 
-[email@domain.com](mailto:email@domain.com)
+[NOPE](zetify033@gmail.com)
